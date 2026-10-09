@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="appdirs" />
+          <option value="atomicwrites" />
+          <option value="bgutil-ytdlp-pot-provider" />
+          <option value="matplotlib" />
+          <option value="pyls-spyder" />
+          <option value="PyQt5" />
+          <option value="PyQtWebEngine" />
+          <option value="PySide6" />
+          <option value="setuptools" />
+          <option value="shiboken6" />
+          <option value="wheel" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
